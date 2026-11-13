@@ -1,0 +1,758 @@
+01	01-prog-fundamentals-java	01	01-core-topics	01	01-java-for-dsa	Java for DSA
+02	02-warmup	01	01-variables-i-o-and-operators	01	01-swap-two-numbers	Swap Two Numbers
+02	02-warmup	01	01-variables-i-o-and-operators	02	02-temperature-converter	Temperature Converter
+02	02-warmup	01	01-variables-i-o-and-operators	03	03-simple-interest-and-compound-interest	Simple Interest and Compound Interest
+02	02-warmup	01	01-variables-i-o-and-operators	04	04-convert-seconds-to-hours-minutes-seconds	Convert Seconds to Hours, Minutes, Seconds
+02	02-warmup	01	01-variables-i-o-and-operators	05	05-absolute-value-without-built-in	Absolute Value Without Built-in
+02	02-warmup	01	01-variables-i-o-and-operators	06	06-quotient-and-remainder-of-a-division	Quotient and Remainder of a Division
+02	02-warmup	01	01-variables-i-o-and-operators	07	07-area-and-perimeter-of-shapes	Area and Perimeter of Shapes
+02	02-warmup	02	02-conditionals-and-decision-making	01	01-even-or-odd	Even or Odd
+02	02-warmup	02	02-conditionals-and-decision-making	02	02-positive-negative-or-zero	Positive, Negative, or Zero
+02	02-warmup	02	02-conditionals-and-decision-making	03	03-leap-year-check	Leap Year Check
+02	02-warmup	02	02-conditionals-and-decision-making	04	04-grade-from-marks	Grade from Marks
+02	02-warmup	02	02-conditionals-and-decision-making	05	05-valid-triangle-from-three-sides	Valid Triangle from Three Sides
+02	02-warmup	02	02-conditionals-and-decision-making	06	06-vowel-or-consonant	Vowel or Consonant
+02	02-warmup	02	02-conditionals-and-decision-making	07	07-check-if-three-points-are-collinear	Check if Three Points are Collinear
+02	02-warmup	03	03-loops-and-iteration	01	01-print-numbers-from-1-to-n	Print Numbers from 1 to N
+02	02-warmup	03	03-loops-and-iteration	02	02-multiplication-table-of-a-number	Multiplication Table of a Number
+02	02-warmup	03	03-loops-and-iteration	03	03-sum-of-even-or-odd-numbers	Sum of Even or Odd Numbers
+02	02-warmup	03	03-loops-and-iteration	04	04-count-digits-in-an-integer	Count Digits in an Integer
+02	02-warmup	03	03-loops-and-iteration	05	05-sum-of-all-divisors-of-a-number	Sum of All Divisors of a Number
+02	02-warmup	04	04-pattern-printing	01	01-right-angled-triangle-of-stars	Right-Angled Triangle of Stars
+02	02-warmup	04	04-pattern-printing	02	02-inverted-right-angled-triangle	Inverted Right-Angled Triangle
+02	02-warmup	04	04-pattern-printing	03	03-pyramid-of-stars	Pyramid of Stars
+02	02-warmup	04	04-pattern-printing	04	04-inverted-pyramid	Inverted Pyramid
+02	02-warmup	04	04-pattern-printing	05	05-hollow-square	Hollow Square
+02	02-warmup	04	04-pattern-printing	06	06-hollow-triangle	Hollow Triangle
+02	02-warmup	04	04-pattern-printing	07	07-diamond-pattern	Diamond Pattern
+02	02-warmup	04	04-pattern-printing	08	08-floyd-s-triangle	Floyd's Triangle
+02	02-warmup	04	04-pattern-printing	09	09-mirror-number-pattern	Mirror Number Pattern
+02	02-warmup	04	04-pattern-printing	10	10-butterfly-pattern	Butterfly Pattern
+02	02-warmup	04	04-pattern-printing	11	11-hourglass-pattern	Hourglass Pattern
+02	02-warmup	04	04-pattern-printing	12	12-spiral-number-pattern	Spiral Number Pattern
+02	02-warmup	05	05-number-theory	01	01-prime-number-check	Prime Number Check
+02	02-warmup	05	05-number-theory	02	02-print-all-primes-up-to-n	Print All Primes Up to N
+02	02-warmup	05	05-number-theory	03	03-factorial-of-a-number	Factorial of a Number
+02	02-warmup	05	05-number-theory	04	04-print-fibonacci-up-to-n-terms	Print Fibonacci Up to N Terms
+02	02-warmup	05	05-number-theory	05	05-gcd-of-two-numbers	GCD of Two Numbers
+02	02-warmup	05	05-number-theory	06	06-lcm-of-two-numbers	LCM of Two Numbers
+02	02-warmup	05	05-number-theory	07	07-perfect-number-check	Perfect Number Check
+02	02-warmup	05	05-number-theory	08	08-decimal-to-binary	Decimal to Binary
+02	02-warmup	06	06-array-warmups	01	01-sum-of-all-elements	Sum of All Elements
+02	02-warmup	06	06-array-warmups	02	02-average-of-array-elements	Average of Array Elements
+02	02-warmup	06	06-array-warmups	03	03-largest-element-in-an-array	Largest Element in an Array
+02	02-warmup	06	06-array-warmups	04	04-second-largest-element	Second Largest Element
+02	02-warmup	06	06-array-warmups	05	05-count-even-and-odd-numbers	Count Even and Odd Numbers
+02	02-warmup	06	06-array-warmups	06	06-linear-search-for-a-target	Linear Search for a Target
+02	02-warmup	06	06-array-warmups	07	07-reverse-an-array-in-place	Reverse an Array In Place
+02	02-warmup	06	06-array-warmups	08	08-check-if-an-array-is-sorted	Check if an Array is Sorted
+02	02-warmup	06	06-array-warmups	09	09-count-frequency-of-each-element	Count Frequency of Each Element
+02	02-warmup	07	07-string-warmups	01	01-length-of-a-string	Length of a String
+02	02-warmup	07	07-string-warmups	02	02-count-vowels-and-consonants	Count Vowels and Consonants
+02	02-warmup	07	07-string-warmups	03	03-count-words-in-a-sentence	Count Words in a Sentence
+02	02-warmup	07	07-string-warmups	04	04-palindrome-string-check	Palindrome String Check
+02	02-warmup	07	07-string-warmups	05	05-count-occurrence-of-a-character	Count Occurrence of a Character
+02	02-warmup	07	07-string-warmups	06	06-replace-all-spaces-with-a-character	Replace All Spaces with a Character
+02	02-warmup	07	07-string-warmups	07	07-toggle-case-of-every-character	Toggle Case of Every Character
+02	02-warmup	07	07-string-warmups	08	08-find-the-longest-word-in-a-sentence	Find the Longest Word in a Sentence
+02	02-warmup	08	08-recursion	01	01-sum-of-first-n-natural-numbers-recursive	Sum of First N Natural Numbers (Recursive)
+02	02-warmup	08	08-recursion	02	02-factorial-recursive	Factorial (Recursive)
+02	02-warmup	08	08-recursion	03	03-nth-fibonacci-number-recursive	Nth Fibonacci Number (Recursive)
+02	02-warmup	08	08-recursion	04	04-power-of-a-number-recursive	Power of a Number (Recursive)
+02	02-warmup	08	08-recursion	05	05-reverse-a-string-recursive	Reverse a String (Recursive)
+02	02-warmup	08	08-recursion	06	06-sum-of-digits-recursive	Sum of Digits (Recursive)
+02	02-warmup	08	08-recursion	07	07-print-numbers-1-to-n-and-n-to-1-recursive	Print Numbers 1 to N and N to 1 (Recursive)
+02	02-warmup	08	08-recursion	08	08-count-digits-recursive	Count Digits (Recursive)
+02	02-warmup	08	08-recursion	09	09-gcd-using-recursion	GCD Using Recursion
+03	03-big-o	01	01-core-topics	01	01-introduction	Introduction
+03	03-big-o	01	01-core-topics	02	02-best-worst-and-average-complexity	Best, Worst, and Average Complexity
+03	03-big-o	01	01-core-topics	03	03-amortized-analysis	Amortized Analysis
+03	03-big-o	01	01-core-topics	04	04-recurrence-relations	Recurrence Relations
+03	03-big-o	01	01-core-topics	05	05-complexity-quiz-easy	Complexity Quiz - Easy
+03	03-big-o	01	01-core-topics	06	06-complexity-quiz-medium	Complexity Quiz - Medium
+03	03-big-o	01	01-core-topics	07	07-complexity-quiz-hard	Complexity Quiz - Hard
+04	04-math	01	01-core-topics	01	01-logarithms	Logarithms
+04	04-math	01	01-core-topics	02	02-modular-arithmetic	Modular Arithmetic
+04	04-math	01	01-core-topics	03	03-gcd-and-lcm	GCD and LCM
+04	04-math	01	01-core-topics	04	04-prime-sieve	Prime Sieve
+04	04-math	01	01-core-topics	05	05-combinatorics	Combinatorics
+04	04-math	01	01-core-topics	06	06-matrix-exponentiation	Matrix Exponentiation
+04	04-math	02	02-number-basics-problems	01	01-palindrome-number	Palindrome Number
+04	04-math	02	02-number-basics-problems	02	02-plus-one	Plus One
+04	04-math	02	02-number-basics-problems	03	03-roman-to-integer	Roman to Integer
+04	04-math	02	02-number-basics-problems	04	04-excel-sheet-column-title	Excel Sheet Column Title
+04	04-math	02	02-number-basics-problems	05	05-greatest-common-divisor-of-strings	Greatest Common Divisor of Strings
+04	04-math	03	03-number-properties-problems	01	01-ugly-number	Ugly Number
+04	04-math	03	03-number-properties-problems	02	02-ugly-number-ii	Ugly Number II
+04	04-math	03	03-number-properties-problems	03	03-count-primes	Count Primes
+04	04-math	03	03-number-properties-problems	04	04-count-good-numbers	Count Good Numbers
+04	04-math	04	04-math-operations-problems	01	01-reverse-integer	Reverse Integer
+04	04-math	04	04-math-operations-problems	02	02-factorial-trailing-zeroes	Factorial Trailing Zeroes
+04	04-math	04	04-math-operations-problems	03	03-multiply-strings	Multiply Strings
+04	04-math	04	04-math-operations-problems	04	04-find-the-duplicate-number	Find the Duplicate Number
+04	04-math	05	05-geometry-problems	01	01-valid-square	Valid Square
+04	04-math	05	05-geometry-problems	02	02-minimum-area-rectangle-ii	Minimum Area Rectangle II
+04	04-math	05	05-geometry-problems	03	03-valid-triangle-number	Valid Triangle Number
+04	04-math	05	05-geometry-problems	04	04-minimum-area-rectangle	Minimum Area Rectangle
+04	04-math	05	05-geometry-problems	05	05-max-points-on-a-line	Max Points on a Line
+05	05-sorting	01	01-comparison-based	01	01-bubble-sort	Bubble Sort
+05	05-sorting	01	01-comparison-based	02	02-selection-sort	Selection Sort
+05	05-sorting	01	01-comparison-based	03	03-insertion-sort	Insertion Sort
+05	05-sorting	01	01-comparison-based	04	04-shell-sort	Shell Sort
+05	05-sorting	01	01-comparison-based	05	05-merge-sort	Merge Sort
+05	05-sorting	01	01-comparison-based	06	06-quick-sort	Quick Sort
+05	05-sorting	01	01-comparison-based	07	07-heap-sort	Heap Sort
+05	05-sorting	02	02-linear-time	01	01-counting-sort	Counting Sort
+05	05-sorting	02	02-linear-time	02	02-bucket-sort	Bucket Sort
+05	05-sorting	02	02-linear-time	03	03-radix-sort	Radix Sort
+05	05-sorting	03	03-specialized	01	01-cyclic-sort	Cyclic Sort
+05	05-sorting	03	03-specialized	02	02-tim-sort	Tim Sort
+05	05-sorting	03	03-specialized	03	03-external-sort	External Sort
+05	05-sorting	04	04-merge-sort-problems	01	01-sort-an-array	Sort an Array
+05	05-sorting	04	04-merge-sort-problems	02	02-sort-list	Sort List
+05	05-sorting	04	04-merge-sort-problems	03	03-reverse-pairs	Reverse Pairs
+05	05-sorting	04	04-merge-sort-problems	04	04-count-of-range-sum	Count of Range Sum
+05	05-sorting	05	05-quick-sort-quickselect	01	01-sort-colors	Sort Colors
+05	05-sorting	05	05-quick-sort-quickselect	02	02-kth-largest-element-in-an-array	Kth Largest Element in an Array
+05	05-sorting	05	05-quick-sort-quickselect	03	03-find-the-kth-largest-integer-in-the-array	Find the Kth Largest Integer in the Array
+05	05-sorting	06	06-bucket-sort-problems	01	01-sort-characters-by-frequency	Sort Characters By Frequency
+05	05-sorting	06	06-bucket-sort-problems	02	02-top-k-frequent-words	Top K Frequent Words
+05	05-sorting	06	06-bucket-sort-problems	03	03-maximum-gap	Maximum Gap
+05	05-sorting	06	06-bucket-sort-problems	04	04-contains-duplicate-iii	Contains Duplicate III
+06	06-arrays	01	01-introduction-to-arrays	01	01-introduction-to-arrays	Introduction to Arrays
+06	06-arrays	02	02-array-manipulation	01	01-move-zeroes	Move Zeroes
+06	06-arrays	02	02-array-manipulation	02	02-remove-element	Remove Element
+06	06-arrays	02	02-array-manipulation	03	03-shuffle-the-array	Shuffle the Array
+06	06-arrays	02	02-array-manipulation	04	04-remove-duplicates-from-sorted-array	Remove Duplicates from Sorted Array
+06	06-arrays	02	02-array-manipulation	05	05-remove-duplicates-from-sorted-array-ii	Remove Duplicates from Sorted Array II
+06	06-arrays	02	02-array-manipulation	06	06-rotate-array	Rotate Array
+06	06-arrays	03	03-finding-and-counting	01	01-max-consecutive-ones	Max Consecutive Ones
+06	06-arrays	03	03-finding-and-counting	02	02-third-maximum-number	Third Maximum Number
+06	06-arrays	03	03-finding-and-counting	03	03-missing-ranges	Missing Ranges
+06	06-arrays	03	03-finding-and-counting	04	04-majority-element	Majority Element
+06	06-arrays	03	03-finding-and-counting	05	05-majority-element-ii	Majority Element II
+06	06-arrays	04	04-stock-problems	01	01-best-time-to-buy-and-sell-stock	Best Time to Buy and Sell Stock
+06	06-arrays	04	04-stock-problems	02	02-best-time-to-buy-and-sell-stock-ii	Best Time to Buy and Sell Stock II
+06	06-arrays	05	05-subarrays-and-subsequences	01	01-number-of-zero-filled-subarrays	Number of Zero-Filled Subarrays
+06	06-arrays	05	05-subarrays-and-subsequences	02	02-increasing-triplet-subsequence	Increasing Triplet Subsequence
+06	06-arrays	06	06-advanced-techniques	01	01-product-of-array-except-self	Product of Array Except Self
+06	06-arrays	06	06-advanced-techniques	02	02-next-permutation	Next Permutation
+06	06-arrays	06	06-advanced-techniques	03	03-first-missing-positive	First Missing Positive
+07	07-strings	01	01-string-basics	01	01-reverse-string	Reverse String
+07	07-strings	01	01-string-basics	02	02-length-of-last-word	Length of Last Word
+07	07-strings	01	01-string-basics	03	03-find-the-index-of-the-first-occurrence-in-a-stri	Find the Index of the First Occurrence in a String
+07	07-strings	02	02-palindromes	01	01-valid-palindrome	Valid Palindrome
+07	07-strings	02	02-palindromes	02	02-valid-palindrome-ii	Valid Palindrome II
+07	07-strings	02	02-palindromes	03	03-longest-palindrome	Longest Palindrome
+07	07-strings	03	03-anagrams-and-patterns	01	01-valid-anagram	Valid Anagram
+07	07-strings	03	03-anagrams-and-patterns	02	02-rotate-string	Rotate String
+07	07-strings	03	03-anagrams-and-patterns	03	03-is-subsequence	Is Subsequence
+07	07-strings	03	03-anagrams-and-patterns	04	04-longest-common-prefix	Longest Common Prefix
+07	07-strings	04	04-string-transformations	01	01-zigzag-conversion	Zigzag Conversion
+07	07-strings	04	04-string-transformations	02	02-reverse-words-in-a-string	Reverse Words in a String
+07	07-strings	04	04-string-transformations	03	03-one-edit-distance	One Edit Distance
+07	07-strings	04	04-string-transformations	04	04-count-and-say	Count and Say
+07	07-strings	04	04-string-transformations	05	05-determine-if-two-strings-are-close	Determine if Two Strings Are Close
+07	07-strings	04	04-string-transformations	06	06-add-bold-tag-in-string	Add Bold Tag in String
+07	07-strings	05	05-hard-string-problems	01	01-guess-the-word	Guess the Word
+07	07-strings	05	05-hard-string-problems	02	02-text-justification	Text Justification
+08	08-bit-manipulation	01	01-core-topics	01	01-introduction-to-bit-manipulation	Introduction to Bit Manipulation
+08	08-bit-manipulation	02	02-xor-tricks	01	01-single-number	Single Number
+08	08-bit-manipulation	02	02-xor-tricks	02	02-missing-number	Missing Number
+08	08-bit-manipulation	02	02-xor-tricks	03	03-set-mismatch	Set Mismatch
+08	08-bit-manipulation	02	02-xor-tricks	04	04-single-number-ii	Single Number II
+08	08-bit-manipulation	02	02-xor-tricks	05	05-single-number-iii	Single Number III
+08	08-bit-manipulation	03	03-bit-counting	01	01-number-of-1-bits	Number of 1 Bits
+08	08-bit-manipulation	03	03-bit-counting	02	02-counting-bits	Counting Bits
+08	08-bit-manipulation	03	03-bit-counting	03	03-hamming-distance	Hamming Distance
+08	08-bit-manipulation	04	04-bit-masking	01	01-power-of-two	Power of Two
+08	08-bit-manipulation	04	04-bit-masking	02	02-reverse-bits	Reverse Bits
+08	08-bit-manipulation	04	04-bit-masking	03	03-bitwise-and-of-numbers-range	Bitwise AND of Numbers Range
+08	08-bit-manipulation	04	04-bit-masking	04	04-sum-of-two-integers	Sum of Two Integers
+09	09-hash-tables	01	01-core-topics	01	01-introduction-to-hash-tables	Introduction to Hash Tables
+09	09-hash-tables	01	01-core-topics	02	02-frequency-counting	Frequency Counting
+09	09-hash-tables	01	01-core-topics	03	03-design-hashmap	Design HashMap
+09	09-hash-tables	02	02-frequency-and-counting	01	01-maximum-number-of-balloons	Maximum Number of Balloons
+09	09-hash-tables	02	02-frequency-and-counting	02	02-number-of-good-pairs	Number of Good Pairs
+09	09-hash-tables	02	02-frequency-and-counting	03	03-ransom-note	Ransom Note
+09	09-hash-tables	02	02-frequency-and-counting	04	04-first-unique-character-in-a-string	First Unique Character in a String
+09	09-hash-tables	02	02-frequency-and-counting	05	05-find-all-numbers-disappeared-in-an-array	Find All Numbers Disappeared in an Array
+09	09-hash-tables	03	03-duplicate-detection	01	01-contains-duplicate	Contains Duplicate
+09	09-hash-tables	03	03-duplicate-detection	02	02-contains-duplicate-ii	Contains Duplicate II
+09	09-hash-tables	03	03-duplicate-detection	03	03-intersection-of-two-arrays-ii	Intersection of Two Arrays II
+09	09-hash-tables	04	04-pattern-matching	01	01-isomorphic-strings	Isomorphic Strings
+09	09-hash-tables	04	04-pattern-matching	02	02-word-pattern	Word Pattern
+09	09-hash-tables	04	04-pattern-matching	03	03-group-anagrams	Group Anagrams
+09	09-hash-tables	04	04-pattern-matching	04	04-group-shifted-strings	Group Shifted Strings
+09	09-hash-tables	05	05-advanced-hashing	01	01-encode-and-decode-tinyurl	Encode and Decode TinyURL
+09	09-hash-tables	05	05-advanced-hashing	02	02-reorganize-string	Reorganize String
+09	09-hash-tables	05	05-advanced-hashing	03	03-longest-consecutive-sequence	Longest Consecutive Sequence
+09	09-hash-tables	05	05-advanced-hashing	04	04-number-of-matching-subsequences	Number of Matching Subsequences
+09	09-hash-tables	05	05-advanced-hashing	05	05-number-of-good-ways-to-split-a-string	Number of Good Ways to Split a String
+09	09-hash-tables	05	05-advanced-hashing	06	06-split-array-into-consecutive-subsequences	Split Array into Consecutive Subsequences
+09	09-hash-tables	05	05-advanced-hashing	07	07-minimum-deletions-to-make-character-frequencies	Minimum Deletions to Make Character Frequencies Unique
+10	10-two-pointers	01	01-core-topics	01	01-introduction-to-two-pointers	Introduction to Two Pointers
+10	10-two-pointers	02	02-opposite-direction	01	01-squares-of-a-sorted-array	Squares of a Sorted Array
+10	10-two-pointers	02	02-opposite-direction	02	02-merge-strings-alternately	Merge Strings Alternately
+10	10-two-pointers	02	02-opposite-direction	03	03-valid-word-abbreviation	Valid Word Abbreviation
+10	10-two-pointers	02	02-opposite-direction	04	04-two-sum	Two Sum
+10	10-two-pointers	02	02-opposite-direction	05	05-two-sum-ii-input-array-is-sorted	Two Sum II - Input Array Is Sorted
+10	10-two-pointers	02	02-opposite-direction	06	06-container-with-most-water	Container With Most Water
+10	10-two-pointers	02	02-opposite-direction	07	07-3sum	3Sum
+10	10-two-pointers	02	02-opposite-direction	08	08-4sum	4Sum
+10	10-two-pointers	02	02-opposite-direction	09	09-trapping-rain-water	Trapping Rain Water
+10	10-two-pointers	02	02-opposite-direction	10	10-count-subarrays-with-fixed-bounds	Count Subarrays With Fixed Bounds
+10	10-two-pointers	03	03-same-direction	01	01-merge-sorted-array	Merge Sorted Array
+10	10-two-pointers	03	03-same-direction	02	02-backspace-string-compare	Backspace String Compare
+10	10-two-pointers	03	03-same-direction	03	03-count-binary-substrings	Count Binary Substrings
+10	10-two-pointers	03	03-same-direction	04	04-string-compression	String Compression
+10	10-two-pointers	03	03-same-direction	05	05-boats-to-save-people	Boats to Save People
+10	10-two-pointers	03	03-same-direction	06	06-longest-palindromic-substring	Longest Palindromic Substring
+11	11-sliding-window	01	01-core-topics	01	01-introduction-to-sliding-window	Introduction to Sliding Window
+11	11-sliding-window	02	02-fixed-size	01	01-maximum-average-subarray-i	Maximum Average Subarray I
+11	11-sliding-window	02	02-fixed-size	02	02-find-all-anagrams-in-a-string	Find All Anagrams in a String
+11	11-sliding-window	02	02-fixed-size	03	03-permutation-in-string	Permutation in String
+11	11-sliding-window	02	02-fixed-size	04	04-maximum-sum-of-distinct-subarrays-with-length-k	Maximum Sum of Distinct Subarrays With Length K
+11	11-sliding-window	02	02-fixed-size	05	05-maximum-number-of-vowels-in-a-substring-of-given	Maximum Number of Vowels in a Substring of Given Length
+11	11-sliding-window	02	02-fixed-size	06	06-substring-with-concatenation-of-all-words	Substring with Concatenation of All Words
+11	11-sliding-window	03	03-dynamic-size	01	01-longest-substring-without-repeating-characters	Longest Substring Without Repeating Characters
+11	11-sliding-window	03	03-dynamic-size	02	02-longest-repeating-character-replacement	Longest Repeating Character Replacement
+11	11-sliding-window	03	03-dynamic-size	03	03-minimum-size-subarray-sum	Minimum Size Subarray Sum
+11	11-sliding-window	03	03-dynamic-size	04	04-max-consecutive-ones-iii	Max Consecutive Ones III
+11	11-sliding-window	03	03-dynamic-size	05	05-count-number-of-nice-subarrays	Count Number of Nice Subarrays
+11	11-sliding-window	03	03-dynamic-size	06	06-fruit-into-baskets	Fruit Into Baskets
+11	11-sliding-window	03	03-dynamic-size	07	07-maximum-points-you-can-obtain-from-cards	Maximum Points You Can Obtain from Cards
+11	11-sliding-window	03	03-dynamic-size	08	08-subarray-product-less-than-k	Subarray Product Less Than K
+11	11-sliding-window	03	03-dynamic-size	09	09-frequency-of-the-most-frequent-element	Frequency of the Most Frequent Element
+11	11-sliding-window	03	03-dynamic-size	10	10-longest-substring-with-at-most-two-distinct-char	Longest Substring with At Most Two Distinct Characters
+11	11-sliding-window	03	03-dynamic-size	11	11-longest-substring-with-at-most-k-distinct-charac	Longest Substring with At Most K Distinct Characters
+11	11-sliding-window	03	03-dynamic-size	12	12-longest-substring-with-at-least-k-repeating-char	Longest Substring with At Least K Repeating Characters
+11	11-sliding-window	03	03-dynamic-size	13	13-minimum-window-substring	Minimum Window Substring
+11	11-sliding-window	03	03-dynamic-size	14	14-minimum-window-subsequence	Minimum Window Subsequence
+11	11-sliding-window	03	03-dynamic-size	15	15-subarrays-with-k-different-integers	Subarrays with K Different Integers
+12	12-prefix-sum	01	01-core-topics	01	01-introduction-to-prefix-sum	Introduction to Prefix Sum
+12	12-prefix-sum	02	02-basic-prefix-sum	01	01-range-sum-query-immutable	Range Sum Query - Immutable
+12	12-prefix-sum	02	02-basic-prefix-sum	02	02-running-sum-of-1d-array	Running Sum of 1d Array
+12	12-prefix-sum	02	02-basic-prefix-sum	03	03-find-pivot-index	Find Pivot Index
+12	12-prefix-sum	02	02-basic-prefix-sum	04	04-maximum-population-year	Maximum Population Year
+12	12-prefix-sum	03	03-prefix-sum-hash-map	01	01-subarray-sum-equals-k	Subarray Sum Equals K
+12	12-prefix-sum	03	03-prefix-sum-hash-map	02	02-subarray-sums-divisible-by-k	Subarray Sums Divisible by K
+12	12-prefix-sum	03	03-prefix-sum-hash-map	03	03-continuous-subarray-sum	Continuous Subarray Sum
+12	12-prefix-sum	03	03-prefix-sum-hash-map	04	04-contiguous-array	Contiguous Array
+12	12-prefix-sum	04	04-2d-prefix-sum	01	01-range-addition	Range Addition
+12	12-prefix-sum	04	04-2d-prefix-sum	02	02-range-sum-query-2d-immutable	Range Sum Query 2D - Immutable
+12	12-prefix-sum	04	04-2d-prefix-sum	03	03-increment-submatrices-by-one	Increment Submatrices by One
+12	12-prefix-sum	04	04-2d-prefix-sum	04	04-matrix-block-sum	Matrix Block Sum
+13	13-kadane	01	01-core-topics	01	01-introduction-to-kadane-s-algorithm	Introduction to Kadane's Algorithm
+13	13-kadane	02	02-classic-kadane	01	01-maximum-subarray	Maximum Subarray
+13	13-kadane	02	02-classic-kadane	02	02-best-sightseeing-pair	Best Sightseeing Pair
+13	13-kadane	03	03-kadane-variants	01	01-maximum-sum-circular-subarray	Maximum Sum Circular Subarray
+13	13-kadane	03	03-kadane-variants	02	02-maximum-product-subarray	Maximum Product Subarray
+13	13-kadane	03	03-kadane-variants	03	03-longest-turbulent-subarray	Longest Turbulent Subarray
+13	13-kadane	04	04-kadane-with-constraints	01	01-maximum-subarray-sum-with-one-deletion	Maximum Subarray Sum with One Deletion
+13	13-kadane	04	04-kadane-with-constraints	02	02-maximum-absolute-sum-of-any-subarray	Maximum Absolute Sum of Any Subarray
+14	14-binary-search	01	01-core-topics	01	01-introduction-to-binary-search	Introduction to Binary Search
+14	14-binary-search	01	01-core-topics	02	02-binary-search-patterns	Binary Search Patterns
+14	14-binary-search	02	02-standard-binary-search	01	01-binary-search	Binary Search
+14	14-binary-search	02	02-standard-binary-search	02	02-first-bad-version	First Bad Version
+14	14-binary-search	02	02-standard-binary-search	03	03-valid-perfect-square	Valid Perfect Square
+14	14-binary-search	02	02-standard-binary-search	04	04-search-insert-position	Search Insert Position
+14	14-binary-search	02	02-standard-binary-search	05	05-guess-number-higher-or-lower	Guess Number Higher or Lower
+14	14-binary-search	02	02-standard-binary-search	06	06-find-smallest-letter-greater-than-target	Find Smallest Letter Greater Than Target
+14	14-binary-search	02	02-standard-binary-search	07	07-find-first-and-last-position-of-element-in-sorte	Find First and Last Position of Element in Sorted Array
+14	14-binary-search	03	03-modified-binary-search	01	01-search-in-rotated-sorted-array	Search in Rotated Sorted Array
+14	14-binary-search	03	03-modified-binary-search	02	02-search-in-rotated-sorted-array-ii	Search in Rotated Sorted Array II
+14	14-binary-search	03	03-modified-binary-search	03	03-find-minimum-in-rotated-sorted-array	Find Minimum in Rotated Sorted Array
+14	14-binary-search	03	03-modified-binary-search	04	04-find-peak-element	Find Peak Element
+14	14-binary-search	03	03-modified-binary-search	05	05-find-in-mountain-array	Find in Mountain Array
+14	14-binary-search	04	04-binary-search-on-answer	01	01-koko-eating-bananas	Koko Eating Bananas
+14	14-binary-search	04	04-binary-search-on-answer	02	02-capacity-to-ship-packages-within-d-days	Capacity To Ship Packages Within D Days
+14	14-binary-search	04	04-binary-search-on-answer	03	03-minimum-number-of-days-to-make-m-bouquets	Minimum Number of Days to Make m Bouquets
+14	14-binary-search	04	04-binary-search-on-answer	04	04-magnetic-force-between-two-balls	Magnetic Force Between Two Balls
+14	14-binary-search	04	04-binary-search-on-answer	05	05-split-array-largest-sum	Split Array Largest Sum
+14	14-binary-search	05	05-binary-search-on-matrix	01	01-search-a-2d-matrix	Search a 2D Matrix
+14	14-binary-search	05	05-binary-search-on-matrix	02	02-search-a-2d-matrix-ii	Search a 2D Matrix II
+14	14-binary-search	06	06-binary-search-advanced	01	01-random-pick-with-weight	Random Pick with Weight
+14	14-binary-search	06	06-binary-search-advanced	02	02-find-k-closest-elements	Find K Closest Elements
+14	14-binary-search	06	06-binary-search-advanced	03	03-heaters	Heaters
+14	14-binary-search	06	06-binary-search-advanced	04	04-median-of-two-sorted-arrays	Median of Two Sorted Arrays
+14	14-binary-search	06	06-binary-search-advanced	05	05-find-k-th-smallest-pair-distance	Find K-th Smallest Pair Distance
+15	15-matrix	01	01-core-topics	01	01-introduction-to-matrix	Introduction to Matrix
+15	15-matrix	02	02-matrix-traversal	01	01-spiral-matrix	Spiral Matrix
+15	15-matrix	02	02-matrix-traversal	02	02-spiral-matrix-ii	Spiral Matrix II
+15	15-matrix	02	02-matrix-traversal	03	03-diagonal-traverse	Diagonal Traverse
+15	15-matrix	02	02-matrix-traversal	04	04-valid-sudoku	Valid Sudoku
+15	15-matrix	03	03-matrix-transformation	01	01-transpose-matrix	Transpose Matrix
+15	15-matrix	03	03-matrix-transformation	02	02-rotate-image	Rotate Image
+15	15-matrix	03	03-matrix-transformation	03	03-set-matrix-zeroes	Set Matrix Zeroes
+15	15-matrix	03	03-matrix-transformation	04	04-candy-crush	Candy Crush
+15	15-matrix	03	03-matrix-transformation	05	05-game-of-life	Game of Life
+16	16-linked-list	01	01-core-topics	01	01-introduction-to-linked-list	Introduction to Linked List
+16	16-linked-list	01	01-core-topics	02	02-intersection-of-two-linked-lists	Intersection of Two Linked Lists
+16	16-linked-list	01	01-core-topics	03	03-remove-duplicates-from-sorted-list	Remove Duplicates from Sorted List
+16	16-linked-list	01	01-core-topics	04	04-design-linked-list	Design Linked List
+16	16-linked-list	01	01-core-topics	05	05-remove-nth-node-from-end-of-list	Remove Nth Node From End of List
+16	16-linked-list	01	01-core-topics	06	06-remove-duplicates-from-sorted-list-ii	Remove Duplicates from Sorted List II
+16	16-linked-list	01	01-core-topics	07	07-swap-nodes-in-pairs	Swap Nodes in Pairs
+16	16-linked-list	01	01-core-topics	08	08-copy-list-with-random-pointer	Copy List with Random Pointer
+16	16-linked-list	01	01-core-topics	09	09-partition-list	Partition List
+16	16-linked-list	01	01-core-topics	10	10-rotate-list	Rotate List
+16	16-linked-list	01	01-core-topics	11	11-add-two-numbers	Add Two Numbers
+16	16-linked-list	01	01-core-topics	12	12-flatten-a-multilevel-doubly-linked-list	Flatten a Multilevel Doubly Linked List
+16	16-linked-list	01	01-core-topics	13	13-delete-the-middle-node-of-a-linked-list	Delete the Middle Node of a Linked List
+16	16-linked-list	01	01-core-topics	14	14-odd-even-linked-list	Odd Even Linked List
+16	16-linked-list	01	01-core-topics	15	15-reorder-list	Reorder List
+16	16-linked-list	01	01-core-topics	16	16-add-two-numbers-ii	Add Two Numbers II
+16	16-linked-list	01	01-core-topics	17	17-delete-node-in-a-linked-list	Delete Node in a Linked List
+16	16-linked-list	01	01-core-topics	18	18-insert-into-a-sorted-circular-linked-list	Insert into a Sorted Circular Linked List
+16	16-linked-list	01	01-core-topics	19	19-merge-in-between-linked-lists	Merge In Between Linked Lists
+16	16-linked-list	02	02-in-place-reversal	01	01-introduction-to-in-place-reversal	Introduction to In-place Reversal
+16	16-linked-list	02	02-in-place-reversal	02	02-palindrome-linked-list	Palindrome Linked List
+16	16-linked-list	02	02-in-place-reversal	03	03-reverse-linked-list	Reverse Linked List
+16	16-linked-list	02	02-in-place-reversal	04	04-reverse-linked-list-ii	Reverse Linked List II
+16	16-linked-list	02	02-in-place-reversal	05	05-reverse-nodes-in-k-group	Reverse Nodes in k-Group
+16	16-linked-list	03	03-fast-and-slow-pointers	01	01-introduction-to-fast-and-slow-pointers	Introduction to Fast and Slow Pointers
+16	16-linked-list	03	03-fast-and-slow-pointers	02	02-middle-of-the-linked-list	Middle of the Linked List
+16	16-linked-list	03	03-fast-and-slow-pointers	03	03-happy-number	Happy Number
+16	16-linked-list	03	03-fast-and-slow-pointers	04	04-linked-list-cycle-ii	Linked List Cycle II
+17	17-stacks	01	01-core-topics	01	01-introduction-to-stack	Introduction to Stack
+17	17-stacks	01	01-core-topics	02	02-valid-parentheses	Valid Parentheses
+17	17-stacks	01	01-core-topics	03	03-remove-all-adjacent-duplicates-in-string	Remove All Adjacent Duplicates In String
+17	17-stacks	01	01-core-topics	04	04-baseball-game	Baseball Game
+17	17-stacks	01	01-core-topics	05	05-maximum-nesting-depth-of-the-parentheses	Maximum Nesting Depth of the Parentheses
+17	17-stacks	01	01-core-topics	06	06-min-stack	Min Stack
+17	17-stacks	01	01-core-topics	07	07-remove-duplicate-letters	Remove Duplicate Letters
+17	17-stacks	01	01-core-topics	08	08-removing-stars-from-a-string	Removing Stars From a String
+17	17-stacks	01	01-core-topics	09	09-evaluate-reverse-polish-notation	Evaluate Reverse Polish Notation
+17	17-stacks	01	01-core-topics	10	10-basic-calculator-ii	Basic Calculator II
+17	17-stacks	01	01-core-topics	11	11-asteroid-collision	Asteroid Collision
+17	17-stacks	01	01-core-topics	12	12-car-fleet	Car Fleet
+17	17-stacks	01	01-core-topics	13	13-valid-parenthesis-string	Valid Parenthesis String
+17	17-stacks	01	01-core-topics	14	14-validate-stack-sequences	Validate Stack Sequences
+17	17-stacks	01	01-core-topics	15	15-minimum-remove-to-make-valid-parentheses	Minimum Remove to Make Valid Parentheses
+17	17-stacks	01	01-core-topics	16	16-simplify-path	Simplify Path
+17	17-stacks	01	01-core-topics	17	17-exclusive-time-of-functions	Exclusive Time of Functions
+17	17-stacks	01	01-core-topics	18	18-basic-calculator	Basic Calculator
+17	17-stacks	01	01-core-topics	19	19-longest-valid-parentheses	Longest Valid Parentheses
+17	17-stacks	02	02-monotonic-stack	01	01-introduction-to-monotonic-stack	Introduction to Monotonic Stack
+17	17-stacks	02	02-monotonic-stack	02	02-next-greater-element-i	Next Greater Element I
+17	17-stacks	02	02-monotonic-stack	03	03-final-prices-with-a-special-discount-in-a-shop	Final Prices With a Special Discount in a Shop
+17	17-stacks	02	02-monotonic-stack	04	04-daily-temperatures	Daily Temperatures
+17	17-stacks	02	02-monotonic-stack	05	05-online-stock-span	Online Stock Span
+17	17-stacks	02	02-monotonic-stack	06	06-132-pattern	132 Pattern
+17	17-stacks	02	02-monotonic-stack	07	07-next-greater-element-ii	Next Greater Element II
+17	17-stacks	02	02-monotonic-stack	08	08-buildings-with-an-ocean-view	Buildings With an Ocean View
+17	17-stacks	02	02-monotonic-stack	09	09-remove-k-digits	Remove K Digits
+17	17-stacks	02	02-monotonic-stack	10	10-maximum-width-ramp	Maximum Width Ramp
+17	17-stacks	02	02-monotonic-stack	11	11-max-chunks-to-make-sorted	Max Chunks To Make Sorted
+17	17-stacks	02	02-monotonic-stack	12	12-sum-of-subarray-minimums	Sum of Subarray Minimums
+17	17-stacks	02	02-monotonic-stack	13	13-sum-of-subarray-ranges	Sum of Subarray Ranges
+17	17-stacks	02	02-monotonic-stack	14	14-shortest-unsorted-continuous-subarray	Shortest Unsorted Continuous Subarray
+17	17-stacks	02	02-monotonic-stack	15	15-next-greater-node-in-linked-list	Next Greater Node In Linked List
+17	17-stacks	02	02-monotonic-stack	16	16-create-maximum-number	Create Maximum Number
+17	17-stacks	02	02-monotonic-stack	17	17-number-of-visible-people-in-a-queue	Number of Visible People in a Queue
+17	17-stacks	02	02-monotonic-stack	18	18-largest-rectangle-in-histogram	Largest Rectangle in Histogram
+18	18-queues	01	01-core-topics	01	01-introduction-to-queue	Introduction to Queue
+18	18-queues	01	01-core-topics	02	02-number-of-recent-calls	Number of Recent Calls
+18	18-queues	01	01-core-topics	03	03-time-needed-to-buy-tickets	Time Needed to Buy Tickets
+18	18-queues	01	01-core-topics	04	04-moving-average-from-data-stream	Moving Average from Data Stream
+18	18-queues	01	01-core-topics	05	05-reveal-cards-in-increasing-order	Reveal Cards In Increasing Order
+18	18-queues	01	01-core-topics	06	06-first-unique-number	First Unique Number
+18	18-queues	01	01-core-topics	07	07-number-of-people-aware-of-a-secret	Number of People Aware of a Secret
+18	18-queues	01	01-core-topics	08	08-find-the-winner-of-the-circular-game	Find the Winner of the Circular Game
+18	18-queues	02	02-monotonic-queue	01	01-continuous-subarrays	Continuous Subarrays
+18	18-queues	02	02-monotonic-queue	02	02-jump-game-vi	Jump Game VI
+18	18-queues	02	02-monotonic-queue	03	03-find-the-most-competitive-subsequence	Find the Most Competitive Subsequence
+18	18-queues	02	02-monotonic-queue	04	04-count-partitions-with-max-min-difference-at-most	Count Partitions With Max-Min Difference at Most K
+18	18-queues	02	02-monotonic-queue	05	05-longest-continuous-subarray-with-absolute-diff-l	Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+18	18-queues	02	02-monotonic-queue	06	06-sliding-window-maximum	Sliding Window Maximum
+18	18-queues	02	02-monotonic-queue	07	07-max-value-of-equation	Max Value of Equation
+18	18-queues	02	02-monotonic-queue	08	08-constrained-subsequence-sum	Constrained Subsequence Sum
+18	18-queues	02	02-monotonic-queue	09	09-shortest-subarray-with-sum-at-least-k	Shortest Subarray with Sum at Least K
+19	19-recursion-and-backtracking	01	01-core-topics	01	01-recursion-fundamentals	Recursion Fundamentals
+19	19-recursion-and-backtracking	01	01-core-topics	02	02-introduction-to-backtracking	Introduction to Backtracking
+19	19-recursion-and-backtracking	01	01-core-topics	03	03-introduction-to-divide-and-conquer	Introduction to Divide and Conquer
+19	19-recursion-and-backtracking	02	02-recursion-basics	01	01-merge-two-sorted-lists	Merge Two Sorted Lists
+19	19-recursion-and-backtracking	02	02-recursion-basics	02	02-pow-x-n	Pow(x, n)
+19	19-recursion-and-backtracking	02	02-recursion-basics	03	03-decode-string	Decode String
+19	19-recursion-and-backtracking	03	03-divide-and-conquer-problems	01	01-longest-nice-substring	Longest Nice Substring
+19	19-recursion-and-backtracking	03	03-divide-and-conquer-problems	02	02-convert-sorted-list-to-binary-search-tree	Convert Sorted List to Binary Search Tree
+19	19-recursion-and-backtracking	03	03-divide-and-conquer-problems	03	03-construct-quad-tree	Construct Quad Tree
+19	19-recursion-and-backtracking	03	03-divide-and-conquer-problems	04	04-maximum-binary-tree	Maximum Binary Tree
+19	19-recursion-and-backtracking	04	04-subsets-and-combinations	01	01-subsets	Subsets
+19	19-recursion-and-backtracking	04	04-subsets-and-combinations	02	02-combination-sum	Combination Sum
+19	19-recursion-and-backtracking	04	04-subsets-and-combinations	03	03-combination-sum-ii	Combination Sum II
+19	19-recursion-and-backtracking	04	04-subsets-and-combinations	04	04-subsets-ii	Subsets II
+19	19-recursion-and-backtracking	04	04-subsets-and-combinations	05	05-combination-sum-iii	Combination Sum III
+19	19-recursion-and-backtracking	04	04-subsets-and-combinations	06	06-combinations	Combinations
+19	19-recursion-and-backtracking	05	05-permutations	01	01-permutations	Permutations
+19	19-recursion-and-backtracking	05	05-permutations	02	02-letter-combinations-of-a-phone-number	Letter Combinations of a Phone Number
+19	19-recursion-and-backtracking	05	05-permutations	03	03-permutations-ii	Permutations II
+19	19-recursion-and-backtracking	06	06-partitioning-and-parsing	01	01-generate-parentheses	Generate Parentheses
+19	19-recursion-and-backtracking	06	06-partitioning-and-parsing	02	02-palindrome-partitioning	Palindrome Partitioning
+19	19-recursion-and-backtracking	06	06-partitioning-and-parsing	03	03-restore-ip-addresses	Restore IP Addresses
+19	19-recursion-and-backtracking	07	07-hard-backtracking	01	01-n-queens	N-Queens
+19	19-recursion-and-backtracking	07	07-hard-backtracking	02	02-special-binary-string	Special Binary String
+19	19-recursion-and-backtracking	07	07-hard-backtracking	03	03-integer-to-english-words	Integer to English Words
+19	19-recursion-and-backtracking	07	07-hard-backtracking	04	04-unique-paths-iii	Unique Paths III
+19	19-recursion-and-backtracking	07	07-hard-backtracking	05	05-remove-invalid-parentheses	Remove Invalid Parentheses
+19	19-recursion-and-backtracking	07	07-hard-backtracking	06	06-sudoku-solver	Sudoku Solver
+20	20-binary-tree	01	01-core-topics	01	01-introduction-to-binary-tree	Introduction to Binary Tree
+20	20-binary-tree	02	02-level-order	01	01-maximum-depth-of-binary-tree	Maximum Depth of Binary Tree
+20	20-binary-tree	02	02-level-order	02	02-average-of-levels-in-binary-tree	Average of Levels in Binary Tree
+20	20-binary-tree	02	02-level-order	03	03-binary-tree-level-order-traversal	Binary Tree Level Order Traversal
+20	20-binary-tree	02	02-level-order	04	04-binary-tree-right-side-view	Binary Tree Right Side View
+20	20-binary-tree	02	02-level-order	05	05-binary-tree-zigzag-level-order-traversal	Binary Tree Zigzag Level Order Traversal
+20	20-binary-tree	02	02-level-order	06	06-populating-next-right-pointers-in-each-node	Populating Next Right Pointers in Each Node
+20	20-binary-tree	02	02-level-order	07	07-maximum-width-of-binary-tree	Maximum Width of Binary Tree
+20	20-binary-tree	02	02-level-order	08	08-binary-tree-vertical-order-traversal	Binary Tree Vertical Order Traversal
+20	20-binary-tree	02	02-level-order	09	09-populating-next-right-pointers-in-each-node-ii	Populating Next Right Pointers in Each Node II
+20	20-binary-tree	02	02-level-order	10	10-check-completeness-of-a-binary-tree	Check Completeness of a Binary Tree
+20	20-binary-tree	03	03-pre-order	01	01-binary-tree-preorder-traversal	Binary Tree Preorder Traversal
+20	20-binary-tree	03	03-pre-order	02	02-same-tree	Same Tree
+20	20-binary-tree	03	03-pre-order	03	03-symmetric-tree	Symmetric Tree
+20	20-binary-tree	03	03-pre-order	04	04-binary-tree-paths	Binary Tree Paths
+20	20-binary-tree	03	03-pre-order	05	05-convert-sorted-array-to-binary-search-tree	Convert Sorted Array to Binary Search Tree
+20	20-binary-tree	03	03-pre-order	06	06-count-complete-tree-nodes	Count Complete Tree Nodes
+20	20-binary-tree	03	03-pre-order	07	07-sum-of-left-leaves	Sum of Left Leaves
+20	20-binary-tree	03	03-pre-order	08	08-subtree-of-another-tree	Subtree of Another Tree
+20	20-binary-tree	03	03-pre-order	09	09-path-sum-ii	Path Sum II
+20	20-binary-tree	03	03-pre-order	10	10-path-sum-iii	Path Sum III
+20	20-binary-tree	03	03-pre-order	11	11-longest-univalue-path	Longest Univalue Path
+20	20-binary-tree	03	03-pre-order	12	12-maximum-difference-between-node-and-ancestor	Maximum Difference Between Node and Ancestor
+20	20-binary-tree	03	03-pre-order	13	13-construct-binary-tree-from-preorder-and-inorder	Construct Binary Tree from Preorder and Inorder Traversal
+20	20-binary-tree	03	03-pre-order	14	14-construct-binary-tree-from-inorder-and-postorder	Construct Binary Tree from Inorder and Postorder Traversal
+20	20-binary-tree	03	03-pre-order	15	15-serialize-and-deserialize-binary-tree	Serialize and Deserialize Binary Tree
+20	20-binary-tree	04	04-in-order	01	01-binary-tree-inorder-traversal	Binary Tree Inorder Traversal
+20	20-binary-tree	04	04-in-order	02	02-minimum-distance-between-bst-nodes	Minimum Distance Between BST Nodes
+20	20-binary-tree	04	04-in-order	03	03-minimum-absolute-difference-in-bst	Minimum Absolute Difference in BST
+20	20-binary-tree	04	04-in-order	04	04-validate-binary-search-tree	Validate Binary Search Tree
+20	20-binary-tree	04	04-in-order	05	05-kth-smallest-element-in-a-bst	Kth Smallest Element in a BST
+20	20-binary-tree	04	04-in-order	06	06-binary-search-tree-iterator	Binary Search Tree Iterator
+20	20-binary-tree	04	04-in-order	07	07-balance-a-binary-search-tree	Balance a Binary Search Tree
+20	20-binary-tree	05	05-post-order	01	01-binary-tree-postorder-traversal	Binary Tree Postorder Traversal
+20	20-binary-tree	05	05-post-order	02	02-invert-binary-tree	Invert Binary Tree
+20	20-binary-tree	05	05-post-order	03	03-diameter-of-binary-tree	Diameter of Binary Tree
+20	20-binary-tree	05	05-post-order	04	04-balanced-binary-tree	Balanced Binary Tree
+20	20-binary-tree	05	05-post-order	05	05-delete-nodes-and-return-forest	Delete Nodes And Return Forest
+20	20-binary-tree	05	05-post-order	06	06-lowest-common-ancestor-of-a-binary-tree	Lowest Common Ancestor of a Binary Tree
+20	20-binary-tree	05	05-post-order	07	07-find-duplicate-subtrees	Find Duplicate Subtrees
+20	20-binary-tree	05	05-post-order	08	08-flatten-binary-tree-to-linked-list	Flatten Binary Tree to Linked List
+20	20-binary-tree	05	05-post-order	09	09-distribute-coins-in-binary-tree	Distribute Coins in Binary Tree
+20	20-binary-tree	05	05-post-order	10	10-count-good-nodes-in-binary-tree	Count Good Nodes in Binary Tree
+20	20-binary-tree	05	05-post-order	11	11-sum-root-to-leaf-numbers	Sum Root to Leaf Numbers
+20	20-binary-tree	05	05-post-order	12	12-boundary-of-binary-tree	Boundary of Binary Tree
+20	20-binary-tree	05	05-post-order	13	13-step-by-step-directions-from-a-binary-tree-node	Step-By-Step Directions From a Binary Tree Node to Another
+20	20-binary-tree	05	05-post-order	14	14-binary-tree-maximum-path-sum	Binary Tree Maximum Path Sum
+21	21-bst	01	01-core-topics	01	01-introduction-to-bst	Introduction to BST
+21	21-bst	01	01-core-topics	02	02-avl-tree	AVL Tree
+21	21-bst	01	01-core-topics	03	03-red-black-tree	Red Black Tree
+21	21-bst	02	02-basic-bst-operations	01	01-search-in-a-binary-search-tree	Search in a Binary Search Tree
+21	21-bst	02	02-basic-bst-operations	02	02-closest-binary-search-tree-value	Closest Binary Search Tree Value
+21	21-bst	02	02-basic-bst-operations	03	03-two-sum-iv-input-is-a-bst	Two Sum IV - Input is a BST
+21	21-bst	02	02-basic-bst-operations	04	04-range-sum-of-bst	Range Sum of BST
+21	21-bst	03	03-bst-modification	01	01-trim-a-binary-search-tree	Trim a Binary Search Tree
+21	21-bst	03	03-bst-modification	02	02-insert-into-a-binary-search-tree	Insert into a Binary Search Tree
+21	21-bst	03	03-bst-modification	03	03-delete-node-in-a-bst	Delete Node in a BST
+21	21-bst	03	03-bst-modification	04	04-recover-binary-search-tree	Recover Binary Search Tree
+21	21-bst	04	04-bst-navigation	01	01-inorder-successor-in-bst	Inorder Successor in BST
+21	21-bst	04	04-bst-navigation	02	02-inorder-successor-in-bst-ii	Inorder Successor in BST II
+21	21-bst	04	04-bst-navigation	03	03-lowest-common-ancestor-of-a-binary-search-tree	Lowest Common Ancestor of a Binary Search Tree
+21	21-bst	05	05-bst-construction	01	01-construct-binary-search-tree-from-preorder-trave	Construct Binary Search Tree from Preorder Traversal
+21	21-bst	05	05-bst-construction	02	02-convert-binary-search-tree-to-sorted-doubly-link	Convert Binary Search Tree to Sorted Doubly Linked List
+21	21-bst	05	05-bst-construction	03	03-largest-bst-subtree	Largest BST Subtree
+21	21-bst	06	06-ordered-set-applications	01	01-my-calendar-i	My Calendar I
+21	21-bst	06	06-ordered-set-applications	02	02-my-calendar-ii	My Calendar II
+21	21-bst	06	06-ordered-set-applications	03	03-stock-price-fluctuation	Stock Price Fluctuation
+22	22-heaps	01	01-core-topics	01	01-introduction-to-heaps	Introduction to Heaps
+22	22-heaps	01	01-core-topics	02	02-last-stone-weight	Last Stone Weight
+22	22-heaps	01	01-core-topics	03	03-furthest-building-you-can-reach	Furthest Building You Can Reach
+22	22-heaps	01	01-core-topics	04	04-single-threaded-cpu	Single-Threaded CPU
+22	22-heaps	01	01-core-topics	05	05-process-tasks-using-servers	Process Tasks Using Servers
+22	22-heaps	01	01-core-topics	06	06-minimum-cost-to-connect-sticks	Minimum Cost to Connect Sticks
+22	22-heaps	01	01-core-topics	07	07-longest-happy-string	Longest Happy String
+22	22-heaps	01	01-core-topics	08	08-maximum-performance-of-a-team	Maximum Performance of a Team
+22	22-heaps	02	02-two-heaps	01	01-find-median-from-data-stream	Find Median from Data Stream
+22	22-heaps	02	02-two-heaps	02	02-ipo	IPO
+22	22-heaps	02	02-two-heaps	03	03-sliding-window-median	Sliding Window Median
+22	22-heaps	03	03-k-way-merge	01	01-find-k-pairs-with-smallest-sums	Find K Pairs with Smallest Sums
+22	22-heaps	03	03-k-way-merge	02	02-kth-smallest-element-in-a-sorted-matrix	Kth Smallest Element in a Sorted Matrix
+22	22-heaps	03	03-k-way-merge	03	03-merge-k-sorted-lists	Merge k Sorted Lists
+22	22-heaps	03	03-k-way-merge	04	04-smallest-range-covering-elements-from-k-lists	Smallest Range Covering Elements from K Lists
+22	22-heaps	04	04-top-k-elements	01	01-introduction-to-top-k	Introduction to Top K
+22	22-heaps	04	04-top-k-elements	02	02-kth-largest-element-in-a-stream	Kth Largest Element in a Stream
+22	22-heaps	04	04-top-k-elements	03	03-top-k-frequent-elements	Top K Frequent Elements
+22	22-heaps	04	04-top-k-elements	04	04-k-closest-points-to-origin	K Closest Points to Origin
+23	23-intervals	01	01-core-topics	01	01-introduction-to-intervals	Introduction to Intervals
+23	23-intervals	02	02-interval-basics	01	01-summary-ranges	Summary Ranges
+23	23-intervals	02	02-interval-basics	02	02-meeting-rooms	Meeting Rooms
+23	23-intervals	03	03-merge-and-insert	01	01-merge-intervals	Merge Intervals
+23	23-intervals	03	03-merge-and-insert	02	02-insert-interval	Insert Interval
+23	23-intervals	03	03-merge-and-insert	03	03-remove-covered-intervals	Remove Covered Intervals
+23	23-intervals	04	04-greedy-intervals	01	01-non-overlapping-intervals	Non-overlapping Intervals
+23	23-intervals	04	04-greedy-intervals	02	02-minimum-number-of-arrows-to-burst-balloons	Minimum Number of Arrows to Burst Balloons
+23	23-intervals	04	04-greedy-intervals	03	03-maximum-number-of-events-that-can-be-attended	Maximum Number of Events That Can Be Attended
+23	23-intervals	04	04-greedy-intervals	04	04-partition-labels	Partition Labels
+23	23-intervals	05	05-meeting-rooms	01	01-meeting-rooms-ii	Meeting Rooms II
+23	23-intervals	05	05-meeting-rooms	02	02-meeting-scheduler	Meeting Scheduler
+23	23-intervals	05	05-meeting-rooms	03	03-car-pooling	Car Pooling
+23	23-intervals	05	05-meeting-rooms	04	04-interval-list-intersections	Interval List Intersections
+23	23-intervals	05	05-meeting-rooms	05	05-two-best-non-overlapping-events	Two Best Non-Overlapping Events
+23	23-intervals	06	06-hard-intervals	01	01-meeting-rooms-iii	Meeting Rooms III
+23	23-intervals	06	06-hard-intervals	02	02-employee-free-time	Employee Free Time
+24	24-tries	01	01-core-topics	01	01-introduction-to-trie	Introduction to Trie
+24	24-tries	02	02-trie-implementation	01	01-implement-trie-prefix-tree	Implement Trie (Prefix Tree)
+24	24-tries	03	03-prefix-and-search	01	01-design-add-and-search-words-data-structure	Design Add and Search Words Data Structure
+24	24-tries	03	03-prefix-and-search	02	02-search-suggestions-system	Search Suggestions System
+24	24-tries	03	03-prefix-and-search	03	03-longest-word-in-dictionary	Longest Word in Dictionary
+24	24-tries	04	04-trie-string-operations	01	01-replace-words	Replace Words
+24	24-tries	04	04-trie-string-operations	02	02-remove-sub-folders-from-the-filesystem	Remove Sub-Folders from the Filesystem
+24	24-tries	04	04-trie-string-operations	03	03-find-the-length-of-the-longest-common-prefix	Find the Length of the Longest Common Prefix
+24	24-tries	04	04-trie-string-operations	04	04-words-within-two-edits-of-dictionary	Words Within Two Edits of Dictionary
+24	24-tries	05	05-trie-bit-operations	01	01-maximum-xor-of-two-numbers-in-an-array	Maximum XOR of Two Numbers in an Array
+24	24-tries	06	06-hard-trie	01	01-word-search-ii	Word Search II
+24	24-tries	06	06-hard-trie	02	02-stream-of-characters	Stream of Characters
+24	24-tries	06	06-hard-trie	03	03-concatenated-words	Concatenated Words
+24	24-tries	06	06-hard-trie	04	04-word-squares	Word Squares
+24	24-tries	06	06-hard-trie	05	05-palindrome-pairs	Palindrome Pairs
+25	25-ds-design	01	01-stack-and-queue-design	01	01-implement-queue-using-stacks	Implement Queue using Stacks
+25	25-ds-design	01	01-stack-and-queue-design	02	02-implement-stack-using-queues	Implement Stack using Queues
+25	25-ds-design	01	01-stack-and-queue-design	03	03-design-circular-queue	Design Circular Queue
+25	25-ds-design	01	01-stack-and-queue-design	04	04-design-circular-deque	Design Circular Deque
+25	25-ds-design	02	02-rate-limiting-and-counters	01	01-logger-rate-limiter	Logger Rate Limiter
+25	25-ds-design	02	02-rate-limiting-and-counters	02	02-design-hit-counter	Design Hit Counter
+25	25-ds-design	03	03-key-value-stores	01	01-time-based-key-value-store	Time Based Key-Value Store
+25	25-ds-design	03	03-key-value-stores	02	02-snapshot-array	Snapshot Array
+25	25-ds-design	03	03-key-value-stores	03	03-encode-and-decode-strings	Encode and Decode Strings
+25	25-ds-design	04	04-randomized-design	01	01-insert-delete-getrandom-o-1	Insert Delete GetRandom O(1)
+25	25-ds-design	05	05-history-and-navigation	01	01-design-browser-history	Design Browser History
+25	25-ds-design	06	06-cache-design	01	01-lru-cache	LRU Cache
+25	25-ds-design	06	06-cache-design	02	02-lfu-cache	LFU Cache
+25	25-ds-design	07	07-complex-system-design	01	01-design-twitter	Design Twitter
+25	25-ds-design	07	07-complex-system-design	02	02-design-a-food-rating-system	Design a Food Rating System
+25	25-ds-design	07	07-complex-system-design	03	03-maximum-frequency-stack	Maximum Frequency Stack
+25	25-ds-design	07	07-complex-system-design	04	04-max-stack	Max Stack
+25	25-ds-design	07	07-complex-system-design	05	05-all-o-one-data-structure	All O`one Data Structure
+25	25-ds-design	07	07-complex-system-design	06	06-range-module	Range Module
+25	25-ds-design	07	07-complex-system-design	07	07-design-search-autocomplete-system	Design Search Autocomplete System
+25	25-ds-design	07	07-complex-system-design	08	08-design-in-memory-file-system	Design In-Memory File System
+25	25-ds-design	07	07-complex-system-design	09	09-design-a-text-editor	Design a Text Editor
+26	26-greedy	01	01-core-topics	01	01-introduction-to-greedy-algorithm	Introduction to Greedy Algorithm
+26	26-greedy	02	02-selection-greedy	01	01-assign-cookies	Assign Cookies
+26	26-greedy	02	02-selection-greedy	02	02-apple-redistribution-into-boxes	Apple Redistribution into Boxes
+26	26-greedy	03	03-jump-problems	01	01-jump-game-ii	Jump Game II
+26	26-greedy	03	03-jump-problems	02	02-jump-game	Jump Game
+26	26-greedy	03	03-jump-problems	03	03-jump-game-vii	Jump Game VII
+26	26-greedy	04	04-parentheses-and-string	01	01-minimum-add-to-make-parentheses-valid	Minimum Add to Make Parentheses Valid
+26	26-greedy	04	04-parentheses-and-string	02	02-maximum-score-from-removing-substrings	Maximum Score From Removing Substrings
+26	26-greedy	05	05-scheduling	01	01-gas-station	Gas Station
+26	26-greedy	05	05-scheduling	02	02-task-scheduler	Task Scheduler
+26	26-greedy	05	05-scheduling	03	03-queue-reconstruction-by-height	Queue Reconstruction by Height
+26	26-greedy	05	05-scheduling	04	04-avoid-flood-in-the-city	Avoid Flood in The City
+26	26-greedy	05	05-scheduling	05	05-most-profit-assigning-work	Most Profit Assigning Work
+26	26-greedy	06	06-array-greedy	01	01-maximum-swap	Maximum Swap
+26	26-greedy	06	06-array-greedy	02	02-maximum-matrix-sum	Maximum Matrix Sum
+26	26-greedy	07	07-hard-greedy	01	01-candy	Candy
+26	26-greedy	07	07-hard-greedy	02	02-minimum-number-of-refueling-stops	Minimum Number of Refueling Stops
+26	26-greedy	07	07-hard-greedy	03	03-minimum-cost-to-hire-k-workers	Minimum Cost to Hire K Workers
+26	26-greedy	07	07-hard-greedy	04	04-set-intersection-size-at-least-two	Set Intersection Size At Least Two
+27	27-graphs	01	01-core-topics	01	01-introduction-to-graphs	Introduction to Graphs
+27	27-graphs	01	01-core-topics	02	02-depth-first-search	Depth-First Search
+27	27-graphs	01	01-core-topics	03	03-breadth-first-search	Breadth-First Search
+27	27-graphs	01	01-core-topics	04	04-matrix-traversal	Matrix Traversal
+27	27-graphs	01	01-core-topics	05	05-multi-source-bfs	Multi-Source BFS
+27	27-graphs	01	01-core-topics	06	06-cycle-detection-in-undirected-graphs	Cycle Detection in Undirected Graphs
+27	27-graphs	01	01-core-topics	07	07-cycle-detection-in-directed-graphs	Cycle Detection in Directed Graphs
+27	27-graphs	01	01-core-topics	08	08-bipartite-graph-detection	Bipartite Graph Detection
+27	27-graphs	01	01-core-topics	09	09-a-search-algorithm	A* Search Algorithm
+27	27-graphs	01	01-core-topics	10	10-kosaraju-s-algorithm	Kosaraju's Algorithm
+27	27-graphs	01	01-core-topics	11	11-tarjan-s-algorithm	Tarjan's Algorithm
+27	27-graphs	02	02-dfs-problems	01	01-flood-fill	Flood Fill
+27	27-graphs	02	02-dfs-problems	02	02-number-of-islands	Number of Islands
+27	27-graphs	02	02-dfs-problems	03	03-number-of-distinct-islands	Number of Distinct Islands
+27	27-graphs	02	02-dfs-problems	04	04-time-needed-to-inform-all-employees	Time Needed to Inform All Employees
+27	27-graphs	02	02-dfs-problems	05	05-all-paths-from-source-to-target	All Paths From Source to Target
+27	27-graphs	02	02-dfs-problems	06	06-clone-graph	Clone Graph
+27	27-graphs	02	02-dfs-problems	07	07-is-graph-bipartite	Is Graph Bipartite?
+27	27-graphs	02	02-dfs-problems	08	08-all-nodes-distance-k-in-binary-tree	All Nodes Distance K in Binary Tree
+27	27-graphs	02	02-dfs-problems	09	09-employee-importance	Employee Importance
+27	27-graphs	02	02-dfs-problems	10	10-surrounded-regions	Surrounded Regions
+27	27-graphs	02	02-dfs-problems	11	11-pacific-atlantic-water-flow	Pacific Atlantic Water Flow
+27	27-graphs	02	02-dfs-problems	12	12-word-search	Word Search
+27	27-graphs	02	02-dfs-problems	13	13-number-of-enclaves	Number of Enclaves
+27	27-graphs	02	02-dfs-problems	14	14-making-a-large-island	Making A Large Island
+27	27-graphs	02	02-dfs-problems	15	15-critical-connections-in-a-network	Critical Connections in a Network
+27	27-graphs	02	02-dfs-problems	16	16-longest-path-with-different-adjacent-characters	Longest Path With Different Adjacent Characters
+27	27-graphs	03	03-bfs-problems	01	01-rotting-oranges	Rotting Oranges
+27	27-graphs	03	03-bfs-problems	02	02-01-matrix	01 Matrix
+27	27-graphs	03	03-bfs-problems	03	03-open-the-lock	Open the Lock
+27	27-graphs	03	03-bfs-problems	04	04-snakes-and-ladders	Snakes and Ladders
+27	27-graphs	03	03-bfs-problems	05	05-minimum-genetic-mutation	Minimum Genetic Mutation
+27	27-graphs	03	03-bfs-problems	06	06-walls-and-gates	Walls and Gates
+27	27-graphs	03	03-bfs-problems	07	07-minimum-knight-moves	Minimum Knight Moves
+27	27-graphs	03	03-bfs-problems	08	08-shortest-path-in-binary-matrix	Shortest Path in Binary Matrix
+27	27-graphs	03	03-bfs-problems	09	09-path-with-maximum-minimum-value	Path With Maximum Minimum Value
+27	27-graphs	03	03-bfs-problems	10	10-word-ladder	Word Ladder
+27	27-graphs	03	03-bfs-problems	11	11-bus-routes	Bus Routes
+27	27-graphs	03	03-bfs-problems	12	12-minimum-obstacle-removal-to-reach-corner	Minimum Obstacle Removal to Reach Corner
+27	27-graphs	03	03-bfs-problems	13	13-shortest-path-in-a-grid-with-obstacles-eliminati	Shortest Path in a Grid with Obstacles Elimination
+27	27-graphs	04	04-topological-sort	01	01-introduction-to-topological-sort	Introduction to Topological Sort
+27	27-graphs	04	04-topological-sort	02	02-course-schedule-ii	Course Schedule II
+27	27-graphs	04	04-topological-sort	03	03-find-eventual-safe-states	Find Eventual Safe States
+27	27-graphs	04	04-topological-sort	04	04-minimum-height-trees	Minimum Height Trees
+27	27-graphs	04	04-topological-sort	05	05-course-schedule-iv	Course Schedule IV
+27	27-graphs	04	04-topological-sort	06	06-parallel-courses	Parallel Courses
+27	27-graphs	04	04-topological-sort	07	07-find-all-possible-recipes-from-given-supplies	Find All Possible Recipes from Given Supplies
+27	27-graphs	04	04-topological-sort	08	08-alien-dictionary	Alien Dictionary
+27	27-graphs	04	04-topological-sort	09	09-sort-items-by-groups-respecting-dependencies	Sort Items by Groups Respecting Dependencies
+27	27-graphs	05	05-union-find	01	01-introduction-to-union-find	Introduction to Union Find
+27	27-graphs	05	05-union-find	02	02-number-of-provinces	Number of Provinces
+27	27-graphs	05	05-union-find	03	03-redundant-connection	Redundant Connection
+27	27-graphs	05	05-union-find	04	04-accounts-merge	Accounts Merge
+27	27-graphs	05	05-union-find	05	05-number-of-connected-components-in-an-undirected	Number of Connected Components in an Undirected Graph
+27	27-graphs	05	05-union-find	06	06-graph-valid-tree	Graph Valid Tree
+27	27-graphs	05	05-union-find	07	07-evaluate-division	Evaluate Division
+27	27-graphs	05	05-union-find	08	08-most-stones-removed-with-same-row-or-column	Most Stones Removed with Same Row or Column
+27	27-graphs	05	05-union-find	09	09-number-of-islands-ii	Number of Islands II
+27	27-graphs	05	05-union-find	10	10-minimize-malware-spread	Minimize Malware Spread
+27	27-graphs	06	06-minimum-spanning-tree	01	01-min-cost-to-connect-all-points	Min Cost to Connect All Points
+27	27-graphs	06	06-minimum-spanning-tree	02	02-connecting-cities-with-minimum-cost	Connecting Cities With Minimum Cost
+27	27-graphs	06	06-minimum-spanning-tree	03	03-optimize-water-distribution-in-a-village	Optimize Water Distribution in a Village
+27	27-graphs	06	06-minimum-spanning-tree	04	04-find-critical-and-pseudo-critical-edges-in-minim	Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
+27	27-graphs	06	06-minimum-spanning-tree	05	05-maximize-spanning-tree-stability-with-upgrades	Maximize Spanning Tree Stability with Upgrades
+27	27-graphs	07	07-shortest-path	01	01-introduction-to-shortest-path	Introduction to Shortest Path
+27	27-graphs	07	07-shortest-path	02	02-dijkstra-s-algorithm	Dijkstra's Algorithm
+27	27-graphs	07	07-shortest-path	03	03-bellman-ford-algorithm	Bellman-Ford Algorithm
+27	27-graphs	07	07-shortest-path	04	04-floyd-warshall-algorithm	Floyd-Warshall Algorithm
+27	27-graphs	07	07-shortest-path	05	05-network-delay-time	Network Delay Time
+27	27-graphs	07	07-shortest-path	06	06-cheapest-flights-within-k-stops	Cheapest Flights Within K Stops
+27	27-graphs	07	07-shortest-path	07	07-path-with-maximum-probability	Path with Maximum Probability
+27	27-graphs	07	07-shortest-path	08	08-path-with-minimum-effort	Path With Minimum Effort
+27	27-graphs	07	07-shortest-path	09	09-the-maze-ii	The Maze II
+27	27-graphs	07	07-shortest-path	10	10-minimum-cost-to-convert-string-i	Minimum Cost to Convert String I
+27	27-graphs	07	07-shortest-path	11	11-minimum-cost-path-with-edge-reversals	Minimum Cost Path with Edge Reversals
+27	27-graphs	07	07-shortest-path	12	12-find-minimum-time-to-reach-last-room-i	Find Minimum Time to Reach Last Room I
+27	27-graphs	07	07-shortest-path	13	13-swim-in-rising-water	Swim in Rising Water
+27	27-graphs	07	07-shortest-path	14	14-minimum-cost-to-make-at-least-one-valid-path-in	Minimum Cost to Make at Least One Valid Path in a Grid
+27	27-graphs	07	07-shortest-path	15	15-minimum-weighted-subgraph-with-the-required-path	Minimum Weighted Subgraph With the Required Paths
+27	27-graphs	08	08-eulerian-circuit	01	01-reconstruct-itinerary	Reconstruct Itinerary
+27	27-graphs	08	08-eulerian-circuit	02	02-cracking-the-safe	Cracking the Safe
+27	27-graphs	08	08-eulerian-circuit	03	03-valid-arrangement-of-pairs	Valid Arrangement of Pairs
+28	28-dp	01	01-core-topics	01	01-introduction-to-dynamic-programming	Introduction to Dynamic Programming
+28	28-dp	02	02-1-d-dp	01	01-introduction-to-1-d-dp	Introduction to 1-D DP
+28	28-dp	02	02-1-d-dp	02	02-fibonacci-number	Fibonacci Number
+28	28-dp	02	02-1-d-dp	03	03-climbing-stairs	Climbing Stairs
+28	28-dp	02	02-1-d-dp	04	04-min-cost-climbing-stairs	Min Cost Climbing Stairs
+28	28-dp	02	02-1-d-dp	05	05-house-robber	House Robber
+28	28-dp	02	02-1-d-dp	06	06-house-robber-ii	House Robber II
+28	28-dp	02	02-1-d-dp	07	07-maximum-length-of-pair-chain	Maximum Length of Pair Chain
+28	28-dp	02	02-1-d-dp	08	08-delete-and-earn	Delete and Earn
+28	28-dp	02	02-1-d-dp	09	09-integer-break	Integer Break
+28	28-dp	02	02-1-d-dp	10	10-greatest-sum-divisible-by-three	Greatest Sum Divisible by Three
+28	28-dp	02	02-1-d-dp	11	11-number-of-ways-to-paint-n-3-grid	Number of Ways to Paint N × 3 Grid
+28	28-dp	03	03-0-1-knapsack	01	01-introduction-to-knapsack	Introduction to Knapsack
+28	28-dp	03	03-0-1-knapsack	02	02-partition-equal-subset-sum	Partition Equal Subset Sum
+28	28-dp	03	03-0-1-knapsack	03	03-target-sum	Target Sum
+28	28-dp	03	03-0-1-knapsack	04	04-last-stone-weight-ii	Last Stone Weight II
+28	28-dp	03	03-0-1-knapsack	05	05-ones-and-zeroes	Ones and Zeroes
+28	28-dp	03	03-0-1-knapsack	06	06-profitable-schemes	Profitable Schemes
+28	28-dp	04	04-unbounded-knapsack	01	01-introduction-to-unbounded-knapsack	Introduction to Unbounded Knapsack
+28	28-dp	04	04-unbounded-knapsack	02	02-coin-change	Coin Change
+28	28-dp	04	04-unbounded-knapsack	03	03-coin-change-ii	Coin Change II
+28	28-dp	04	04-unbounded-knapsack	04	04-perfect-squares	Perfect Squares
+28	28-dp	04	04-unbounded-knapsack	05	05-minimum-cost-for-tickets	Minimum Cost For Tickets
+28	28-dp	05	05-lis	01	01-longest-increasing-subsequence	Longest Increasing Subsequence
+28	28-dp	05	05-lis	02	02-number-of-longest-increasing-subsequence	Number of Longest Increasing Subsequence
+28	28-dp	05	05-lis	03	03-longest-string-chain	Longest String Chain
+28	28-dp	05	05-lis	04	04-longest-arithmetic-subsequence	Longest Arithmetic Subsequence
+28	28-dp	05	05-lis	05	05-russian-doll-envelopes	Russian Doll Envelopes
+28	28-dp	06	06-2d-grid-dp	01	01-introduction-to-2-d-dp	Introduction to 2-D DP
+28	28-dp	06	06-2d-grid-dp	02	02-pascal-s-triangle	Pascal's Triangle
+28	28-dp	06	06-2d-grid-dp	03	03-unique-paths-ii	Unique Paths II
+28	28-dp	06	06-2d-grid-dp	04	04-minimum-path-sum	Minimum Path Sum
+28	28-dp	06	06-2d-grid-dp	05	05-triangle	Triangle
+28	28-dp	06	06-2d-grid-dp	06	06-count-square-submatrices-with-all-ones	Count Square Submatrices with All Ones
+28	28-dp	06	06-2d-grid-dp	07	07-maximum-number-of-points-with-cost	Maximum Number of Points with Cost
+28	28-dp	06	06-2d-grid-dp	08	08-unique-paths	Unique Paths
+28	28-dp	06	06-2d-grid-dp	09	09-maximal-square	Maximal Square
+28	28-dp	06	06-2d-grid-dp	10	10-paint-house	Paint House
+28	28-dp	06	06-2d-grid-dp	11	11-minimum-falling-path-sum	Minimum Falling Path Sum
+28	28-dp	06	06-2d-grid-dp	12	12-burst-balloons	Burst Balloons
+28	28-dp	06	06-2d-grid-dp	13	13-maximum-profit-in-job-scheduling	Maximum Profit in Job Scheduling
+28	28-dp	06	06-2d-grid-dp	14	14-cherry-pickup	Cherry Pickup
+28	28-dp	06	06-2d-grid-dp	15	15-longest-increasing-path-in-a-matrix	Longest Increasing Path in a Matrix
+28	28-dp	06	06-2d-grid-dp	16	16-remove-boxes	Remove Boxes
+28	28-dp	06	06-2d-grid-dp	17	17-maximal-rectangle	Maximal Rectangle
+28	28-dp	06	06-2d-grid-dp	18	18-dungeon-game	Dungeon Game
+28	28-dp	06	06-2d-grid-dp	19	19-painting-a-grid-with-three-different-colors	Painting a Grid With Three Different Colors
+28	28-dp	06	06-2d-grid-dp	20	20-minimum-cost-path-with-teleportations	Minimum Cost Path with Teleportations
+28	28-dp	06	06-2d-grid-dp	21	21-frog-jump	Frog Jump
+28	28-dp	06	06-2d-grid-dp	22	22-optimal-account-balancing	Optimal Account Balancing
+28	28-dp	06	06-2d-grid-dp	23	23-minimum-difficulty-of-a-job-schedule	Minimum Difficulty of a Job Schedule
+28	28-dp	06	06-2d-grid-dp	24	24-minimum-cost-to-cut-a-stick	Minimum Cost to Cut a Stick
+28	28-dp	07	07-string-dp	01	01-introduction-to-string-dp	Introduction to String DP
+28	28-dp	07	07-string-dp	02	02-longest-common-subsequence	Longest Common Subsequence
+28	28-dp	07	07-string-dp	03	03-edit-distance	Edit Distance
+28	28-dp	07	07-string-dp	04	04-longest-palindromic-subsequence	Longest Palindromic Subsequence
+28	28-dp	07	07-string-dp	05	05-decode-ways	Decode Ways
+28	28-dp	07	07-string-dp	06	06-word-break	Word Break
+28	28-dp	07	07-string-dp	07	07-interleaving-string	Interleaving String
+28	28-dp	07	07-string-dp	08	08-minimum-deletions-to-make-string-balanced	Minimum Deletions to Make String Balanced
+28	28-dp	07	07-string-dp	09	09-wildcard-matching	Wildcard Matching
+28	28-dp	07	07-string-dp	10	10-distinct-subsequences	Distinct Subsequences
+28	28-dp	07	07-string-dp	11	11-palindrome-partitioning-ii	Palindrome Partitioning II
+28	28-dp	07	07-string-dp	12	12-word-break-ii	Word Break II
+28	28-dp	07	07-string-dp	13	13-regular-expression-matching	Regular Expression Matching
+28	28-dp	07	07-string-dp	14	14-strange-printer	Strange Printer
+28	28-dp	07	07-string-dp	15	15-shortest-common-supersequence	Shortest Common Supersequence
+28	28-dp	08	08-tree-graph-dp	01	01-introduction-to-tree-graph-dp	Introduction to Tree/Graph DP
+28	28-dp	08	08-tree-graph-dp	02	02-house-robber-iii	House Robber III
+28	28-dp	08	08-tree-graph-dp	03	03-unique-binary-search-trees-ii	Unique Binary Search Trees II
+28	28-dp	08	08-tree-graph-dp	04	04-number-of-ways-to-arrive-at-destination	Number of Ways to Arrive at Destination
+28	28-dp	08	08-tree-graph-dp	05	05-binary-tree-cameras	Binary Tree Cameras
+28	28-dp	08	08-tree-graph-dp	06	06-sum-of-distances-in-tree	Sum of Distances in Tree
+28	28-dp	09	09-bitmask-dp	01	01-introduction-to-bitmask-dp	Introduction to Bitmask DP
+28	28-dp	09	09-bitmask-dp	02	02-minimum-number-of-work-sessions-to-finish-the-ta	Minimum Number of Work Sessions to Finish the Tasks
+28	28-dp	09	09-bitmask-dp	03	03-fair-distribution-of-cookies	Fair Distribution of Cookies
+28	28-dp	09	09-bitmask-dp	04	04-campus-bikes-ii	Campus Bikes II
+28	28-dp	09	09-bitmask-dp	05	05-partition-to-k-equal-sum-subsets	Partition to K Equal Sum Subsets
+28	28-dp	09	09-bitmask-dp	06	06-shortest-path-visiting-all-nodes	Shortest Path Visiting All Nodes
+28	28-dp	10	10-digit-dp	01	01-introduction-to-digit-dp	Introduction to Digit DP
+28	28-dp	10	10-digit-dp	02	02-count-numbers-with-unique-digits	Count Numbers with Unique Digits
+28	28-dp	10	10-digit-dp	03	03-number-of-digit-one	Number of Digit One
+28	28-dp	10	10-digit-dp	04	04-numbers-at-most-n-given-digit-set	Numbers At Most N Given Digit Set
+28	28-dp	11	11-probability-dp	01	01-introduction-to-probability-dp	Introduction to Probability DP
+28	28-dp	11	11-probability-dp	02	02-knight-probability-in-chessboard	Knight Probability in Chessboard
+28	28-dp	11	11-probability-dp	03	03-soup-servings	Soup Servings
+28	28-dp	11	11-probability-dp	04	04-new-21-game	New 21 Game
+28	28-dp	12	12-state-machine-dp	01	01-introduction-to-state-machine-dp	Introduction to State Machine DP
+28	28-dp	12	12-state-machine-dp	02	02-best-time-to-buy-and-sell-stock-with-cooldown	Best Time to Buy and Sell Stock with Cooldown
+28	28-dp	12	12-state-machine-dp	03	03-best-time-to-buy-and-sell-stock-with-transaction	Best Time to Buy and Sell Stock with Transaction Fee
+28	28-dp	12	12-state-machine-dp	04	04-best-time-to-buy-and-sell-stock-iii	Best Time to Buy and Sell Stock III
+28	28-dp	12	12-state-machine-dp	05	05-best-time-to-buy-and-sell-stock-iv	Best Time to Buy and Sell Stock IV
+29	29-advanced	01	01-string-matching	01	01-introduction-to-pattern-matching	Introduction to Pattern Matching
+29	29-advanced	01	01-string-matching	02	02-brute-force-pattern-matching	Brute Force Pattern Matching
+29	29-advanced	01	01-string-matching	03	03-kmp-algorithm	KMP Algorithm
+29	29-advanced	01	01-string-matching	04	04-rabin-karp-algorithm	Rabin-Karp Algorithm
+29	29-advanced	01	01-string-matching	05	05-z-algorithm	Z-Algorithm
+29	29-advanced	01	01-string-matching	06	06-suffix-arrays	Suffix Arrays
+29	29-advanced	01	01-string-matching	07	07-repeated-substring-pattern	Repeated Substring Pattern
+29	29-advanced	01	01-string-matching	08	08-repeated-string-match	Repeated String Match
+29	29-advanced	01	01-string-matching	09	09-number-of-distinct-substrings-in-a-string	Number of Distinct Substrings in a String
+29	29-advanced	01	01-string-matching	10	10-shortest-palindrome	Shortest Palindrome
+29	29-advanced	01	01-string-matching	11	11-longest-happy-prefix	Longest Happy Prefix
+29	29-advanced	01	01-string-matching	12	12-longest-duplicate-substring	Longest Duplicate Substring
+29	29-advanced	02	02-advanced-data-structures	01	01-fenwick-tree-binary-indexed-tree	Fenwick Tree (Binary Indexed Tree)
+29	29-advanced	02	02-advanced-data-structures	02	02-segment-tree	Segment Tree
+29	29-advanced	02	02-advanced-data-structures	03	03-segment-tree-with-lazy-propagation	Segment Tree with Lazy Propagation
+29	29-advanced	02	02-advanced-data-structures	04	04-range-sum-query-mutable	Range Sum Query - Mutable
+29	29-advanced	02	02-advanced-data-structures	05	05-range-sum-query-2d-mutable	Range Sum Query 2D - Mutable
+29	29-advanced	02	02-advanced-data-structures	06	06-count-of-smaller-numbers-after-self	Count of Smaller Numbers After Self
+29	29-advanced	02	02-advanced-data-structures	07	07-falling-squares	Falling Squares
+29	29-advanced	02	02-advanced-data-structures	08	08-block-placement-queries	Block Placement Queries
+29	29-advanced	02	02-advanced-data-structures	09	09-longest-balanced-subarray-ii	Longest Balanced Subarray II
+29	29-advanced	02	02-advanced-data-structures	10	10-number-of-pairs-satisfying-inequality	Number of Pairs Satisfying Inequality
+29	29-advanced	03	03-line-sweep	01	01-minimum-interval-to-include-each-query	Minimum Interval to Include Each Query
+29	29-advanced	03	03-line-sweep	02	02-the-skyline-problem	The Skyline Problem
+29	29-advanced	03	03-line-sweep	03	03-rectangle-area-ii	Rectangle Area II
+29	29-advanced	03	03-line-sweep	04	04-perfect-rectangle	Perfect Rectangle
